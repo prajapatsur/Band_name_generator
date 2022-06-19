@@ -1,0 +1,4 @@
+city_name = input("Enter the name of your city: ")
+pet_name = input("Esnter your pet name: ")
+band_name = (city_name).title() + " " +pet_name.title()
+print(band_name)
